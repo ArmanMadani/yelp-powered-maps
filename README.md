@@ -1,1 +1,1 @@
-# yelp-powered-maps
+# Yelp-Powered Maps
